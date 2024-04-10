@@ -1,0 +1,23 @@
+package com.exemplo.movies;
+
+import org.bson.types.ObjectId;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import java.util.List;
+import java.util.Optional;
+
+@Service
+public class MovieService {
+    @Autowired
+    public MovieRepository movieRepository;
+
+    public List<Movie> allMoveis(){
+        return movieRepository.findAll();
+    }
+
+    //Optional method is in case the get didnt find any id movie
+    public Optional<Movie> singleMovie(String imdbId){
+        return movieRepository.findMovieByImdbId(imdbId);
+    }
+}
