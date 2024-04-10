@@ -1,5 +1,5 @@
 # Movie Review CRUD Application
-
+![](https://private-user-images.githubusercontent.com/89420889/321428628-500f4c20-ee40-4527-b1ff-a89657038822.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI3OTE4MzgsIm5iZiI6MTcxMjc5MTUzOCwicGF0aCI6Ii84OTQyMDg4OS8zMjE0Mjg2MjgtNTAwZjRjMjAtZWU0MC00NTI3LWIxZmYtYTg5NjU3MDM4ODIyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDEwVDIzMjUzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlNmE4Yzc4ZDg2MmM5OGVhNWQ2OGQ3ZWQ4YmFkMWQ2Y2U0NjBmNDMzMmNjMTVmNGY4NWU5OTY1ZmMxMWY0ZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.V_ZZx7krs4VH0Ad26RFgXH9rrxvMZydTqTKL8NK_RaY)
 This project is a **Java Spring Boot** application that allows users to manage movie reviews. It uses **MongoDB** as the database to store movie information and associated reviews. The application provides endpoints for creating, reading, updating, and deleting movie reviews.
 
 ## Project Structure
@@ -93,7 +93,8 @@ The project consists of the following components:
             "body": "This movie was amazing!"
         }
         ```
-
+![](https://private-user-images.githubusercontent.com/89420889/321428658-ff91b7c5-3207-4008-9008-593f4f42882c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI3OTE4MzgsIm5iZiI6MTcxMjc5MTUzOCwicGF0aCI6Ii84OTQyMDg4OS8zMjE0Mjg2NTgtZmY5MWI3YzUtMzIwNy00MDA4LTkwMDgtNTkzZjRmNDI4ODJjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDEwVDIzMjUzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZlMjcwY2Y1MDBkMWM5YTMzYWI0NjU2NzM1NjFhOWUxNjBkNjBlN2NkNjQ3YmJjMzkyOWNlOGI1MDZhMzg3YjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._Jjsg9m9UrsrBLDaRKE2aP9xxEbKZzfSy8ayI98N0cY![image](https://github.com/Iuryppedrosa/API-Movies-Java/assets/89420889/c8cf3b17-d6c5-4b7d-84fb-a21ae6f2e69b)
+)
 ## How to Run
 
 1. Clone the repository.
@@ -101,3 +102,5 @@ The project consists of the following components:
 3. Build and run the Spring Boot application.
 
 Feel free to customize this README further based on your project's specific details. Good luck with your movie review application! 🎬🍿
+
+
